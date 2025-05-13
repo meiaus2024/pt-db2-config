@@ -4,7 +4,7 @@
 version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: ""
+  version: "dfc4c15e-152d-4840-bc72-b504bd44bc3d"
 
   # Enable a public endpoint for the application. If not set, the application
   # is only available on an internal endpoint accessible to other applications
@@ -47,10 +47,10 @@ app:
     - name: OIDC_DISCOVERY_HOST
       value: https://mei-stg-db2test-ha0k7v8wf4.us-east.c2.appflow.test.ibmappdomain.cloud/
     - name: db2HostName
-      value: "2f3279a5-73d1-4859-88f0-a6c3e6b4b907.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud"
+      value: "125f9f61-9715-46f9-9399-c8177b21803b.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud"
     - name: db2Port
-      value: "30756"
+      value: "30426"
     - name: dbName
       value: "bludb"
     - name: db2UserName
-      value: "zpb97924"
+      value: "jnr71016"
